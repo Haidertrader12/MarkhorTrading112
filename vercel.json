@@ -12,7 +12,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "client"  // Replace with "." if using root
+      "dest": "client"
     }
   ]
 }
